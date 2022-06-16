@@ -5,7 +5,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring_ex02</module>
-    </modules>
+		<module>spring_ex03</module>
+		<module>demo</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
