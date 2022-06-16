@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="Add ex02">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex03/src/main/java/com/example/ex03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex03/src/main/java/com/example/ex03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex03/src/main/java/com/example/ex03/PersonServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex03/src/main/java/com/example/ex03/TestConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="Add ex04">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,6 +80,7 @@
       <recent name="com.example.demospring" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring\demo\src\main\resources\static" />
       <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring" />
       <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring\src\main\resources\static" />
     </key>
@@ -100,7 +88,20 @@
       <recent name="com.example.ex03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.example.ex03.Main">
+  <component name="RunManager" selected="Application.DemoApplication">
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demospring.DemoSpringApplication" />
       <module name="demo-spring" />
@@ -157,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.com.example.ex03.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DemoSpringApplication" />
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655347609162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add ex04">
+      <created>1655368870866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655368870866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,10 +208,16 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Add ex02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ex02" />
+    <MESSAGE value="Add ex04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ex04" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo_spring$DemoApplication.ic" NAME="DemoApplication Coverage Results" MODIFIED="1655371724502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
   </component>
 </project>
