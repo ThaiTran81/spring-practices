@@ -6,6 +6,9 @@
     <modules>
         <module>spring_ex02</module>
 		<module>spring_ex03</module>
+		<module>spring_ex04</module>
+		<module>spring_ex05</module>
+		<module>spring_ex06</module>
 		<module>demo</module>
 	</modules>
     <parent>

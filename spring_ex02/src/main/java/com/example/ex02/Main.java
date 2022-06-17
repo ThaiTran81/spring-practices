@@ -7,6 +7,6 @@ public class Main {
         var context = new AnnotationConfigApplicationContext(TestConfig.class);
 
         System.out.println("before call");
-        context.getBean(Person.class);
+        context.getBean(TestG.class);
     }
 }

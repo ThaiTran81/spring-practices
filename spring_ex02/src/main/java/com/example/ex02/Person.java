@@ -1,12 +1,14 @@
 package com.example.ex02;
 
 
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("cat")
 @Lazy
-public class Person {
+@Qualifier("cat")
+public class Person implements IThing {
     String name;
 
     Person(){

@@ -4,11 +4,121 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="Add ex04">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/home.html" afterDir="false" />
+    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="Update ex04">
+      <change afterPath="$PROJECT_DIR$/spring_ex02/spring_ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/IThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/TestG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex03/spring_ex03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex04/src/test/java/com/eazybytes/eazyschool/EazyschoolApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/icon-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/testi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/testi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/testi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/static/assets/images/testi3.jpg.crswap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex05/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/icon-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/testi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/testi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/images/testi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/js/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex06/src/main/resources/static/assets/js/jquery-3.3.1.min.js.crswap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ex02/src/main/java/com/example/ex02/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demospring/HomeControllerTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +128,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,7 +178,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "C:/Users/TRAI/Documents/GitHub/demo",
+    "last_opened_file_path": "C:/Users/TRAI/Documents/GitHub/demo-spring/spring_ex05/src/main/resources",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -79,6 +189,10 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.demospring" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring\spring_ex05\src\main\resources" />
+      <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring\demo\src\main\resources\static" />
       <recent name="C:\Users\TRAI\Documents\GitHub\demo-spring" />
@@ -88,7 +202,7 @@
       <recent name="com.example.ex03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoApplication">
+  <component name="RunManager" selected="Application.com.eazybytes.eazyschool.EazyschoolApplication (1)">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="demo" />
@@ -102,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSpringApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demospring.DemoSpringApplication" />
-      <module name="demo-spring" />
+    <configuration name="EazyschoolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
+      <module name="example_19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demospring.*" />
+          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.example.ex03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ex03.Main" />
-      <module name="spring_ex03" />
+    <configuration name="com.eazybytes.eazyschool.EazyschoolApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
+      <module name="spring_ex06" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.ex03.*" />
+          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,28 +255,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-spring" />
+    <configuration name="com.eazybytes.eazyschool.EazyschoolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
+      <module name="spring_ex05" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demospring.*" />
+          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.demospring" />
-      <option name="MAIN_CLASS_NAME" value="com.example.demospring.HomeControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
-        <item itemvalue="Application.com.example.ex03.Main" />
+        <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (1)" />
+        <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication" />
+        <item itemvalue="Application.EazyschoolApplication" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DemoSpringApplication" />
-        <item itemvalue="JUnit.HomeControllerTest" />
+        <item itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655368870866</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update ex04">
+      <created>1655373971093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655373971093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +328,8 @@
     </ignored-roots>
     <MESSAGE value="Add ex02" />
     <MESSAGE value="Add ex04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ex04" />
+    <MESSAGE value="Update ex04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ex04" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
