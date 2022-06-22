@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_ex08" />
         <module name="spring_ex07" />
+        <module name="spring_ex09" />
         <module name="spring_ex03" />
         <module name="spring_ex06" />
         <module name="spring_ex05" />
@@ -29,6 +30,7 @@
       <module name="spring_ex06" options="-parameters" />
       <module name="spring_ex07" options="-parameters" />
       <module name="spring_ex08" options="-parameters" />
+      <module name="spring_ex09" options="-parameters" />
     </option>
   </component>
 </project>
