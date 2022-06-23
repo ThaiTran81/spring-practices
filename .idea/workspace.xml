@@ -4,125 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="add ex08">
-      <change afterPath="$PROJECT_DIR$/spring_ex09/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/annotation/FieldsValueMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/annotation/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/aspects/LoggerAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/audit/AuditAwareImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/DashboardController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/GlobalExceptionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/ProfileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/PublicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/EazyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/model/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/AddressRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/CoursesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/EazyClassRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/repository/RolesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/rest/ContactRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/rest/GlobalExceptionRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/validations/FieldsValueMatchValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/java/com/eazybytes/eazyschool/validations/PasswordStrengthValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/eazyschool_data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/eazyschool_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/banner3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/bg3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/blog1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/blog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/blog3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/c6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/dribbble.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/error.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/icon-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/icon-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/icon-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/team1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/team2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/team3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/team4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/testi1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/testi2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/images/testi3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/js/counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/js/theme-change.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/static/assets/webfonts/fa-regular-400.svg.crswap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/course_students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/courses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/courses_enrolled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/courses_secure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/holidays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/messages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/templates/students.html" afterDir="false" />
+    <list default="true" id="80bee3e7-c618-4cc6-a519-173e808c72b5" name="Changes" comment="add ex09">
+      <change afterPath="$PROJECT_DIR$/spring_ex10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/annotation/FieldsValueMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/annotation/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/aspects/LoggerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/audit/AuditAwareImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/DashboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/GlobalExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/controller/PublicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/EazyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/model/Roles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/AddressRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/EazyClassRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/repository/RolesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/validations/FieldsValueMatchValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/java/com/eazybytes/eazyschool/validations/PasswordStrengthValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/eazyschool_data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/eazyschool_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/dribbble.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/icon-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/team1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/team2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/team3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/team4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/testi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/testi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/images/testi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/js/counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/js/theme-change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/static/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/courses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/holidays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/main/resources/templates/students.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_ex10/src/test/java/com/eazybytes/eazyschool/EazyschoolApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_ex08/src/main/java/com/eazybytes/eazyschool/aspects/LoggerAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ex08/src/main/java/com/eazybytes/eazyschool/aspects/LoggerAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_ex09/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_ex09/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +206,20 @@
       <recent name="com.example.ex03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.eazybytes.eazyschool.EazyschoolApplication (3)">
+  <component name="RunManager" selected="Application.EazyschoolApplication">
+    <configuration name="EazyschoolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
+      <module name="spring_ex10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.eazybytes.eazyschool.EazyschoolApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
       <module name="spring_ex06" />
@@ -259,26 +272,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.eazybytes.eazyschool.EazyschoolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eazybytes.eazyschool.EazyschoolApplication" />
-      <module name="spring_ex05" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.eazybytes.eazyschool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (3)" />
+        <item itemvalue="Application.EazyschoolApplication" />
         <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (4)" />
+        <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (3)" />
         <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (2)" />
         <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication (1)" />
-        <item itemvalue="Application.com.eazybytes.eazyschool.EazyschoolApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655697570357</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add ex09">
+      <created>1655893770805</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655893770805</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +356,8 @@
     <MESSAGE value="Update ex04" />
     <MESSAGE value="add ex05, 06" />
     <MESSAGE value="add ex08" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ex08" />
+    <MESSAGE value="add ex09" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ex09" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
